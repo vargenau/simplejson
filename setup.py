@@ -112,7 +112,7 @@ def run_setup(with_binary):
         author="Bob Ippolito",
         author_email="bob@redivi.com",
         url="https://github.com/simplejson/simplejson",
-        license="MIT License",
+        license="MIT",
         packages=['simplejson', 'simplejson.tests'],
         platforms=['any'],
         **kw)
